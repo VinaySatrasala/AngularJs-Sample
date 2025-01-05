@@ -327,3 +327,9 @@ a:hover {
 .buy-now-button:hover {
     background-color: #218838;
 }
+
+.div-size{
+    height: 200px;
+    width: 200px;
+
+}
